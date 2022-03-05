@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\bin\Debug\netcoreapp3.1\AP204_Methods.exe
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\bin\Debug\netcoreapp3.1\AP204_Methods.deps.json
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\bin\Debug\netcoreapp3.1\AP204_Methods.runtimeconfig.json
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\bin\Debug\netcoreapp3.1\AP204_Methods.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\bin\Debug\netcoreapp3.1\AP204_Methods.dll
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\bin\Debug\netcoreapp3.1\AP204_Methods.pdb
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\obj\Debug\netcoreapp3.1\AP204_Methods.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\obj\Debug\netcoreapp3.1\AP204_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\obj\Debug\netcoreapp3.1\AP204_Methods.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\obj\Debug\netcoreapp3.1\AP204_Methods.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\obj\Debug\netcoreapp3.1\AP204_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\obj\Debug\netcoreapp3.1\AP204_Methods.dll
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\obj\Debug\netcoreapp3.1\AP204_Methods.pdb
+C:\Users\Lenovo\source\repos\AP204_Methods\AP204_Methods\obj\Debug\netcoreapp3.1\AP204_Methods.genruntimeconfig.cache
